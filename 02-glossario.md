@@ -9,10 +9,10 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
     - DaaS
       -O DaaS é um modelo de computação em nuvem onde o provedor hospeda o sistema operacional (Windows, Linux), as configurações e os aplicativos em seus servidores, transmitindo a "tela" para o seu dispositivo físico.
     
-    -DBaaS
+    - DBaaS
       -O DBaaS é um modelo onde você aluga um banco de dados completo (como MySQL, PostgreSQL ou MongoDB). O provedor cuida da instalação, dos backups, da segurança e da performance, enquanto você apenas envia as consultas ($SQL$ ou NoSQL).
  
-    -FaaS
+    - FaaS
       -O FaaS é a base do conceito de Serverless (Sem Servidor). Nele, você não hospeda um aplicativo inteiro, mas sim funções isoladas (pequenos pedaços de código) que só "acordam" quando acontece um evento específico (como alguém clicar em um botão ou um arquivo ser enviado).
 
     - IaaS
