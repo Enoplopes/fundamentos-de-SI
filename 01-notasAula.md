@@ -1,5 +1,4 @@
 # Notas de aula da disciplina
-Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
 ## Aula 3
   - Apresentação da Oficina de Git - https://github.com/alexandrezamberlan/oficinaGit
