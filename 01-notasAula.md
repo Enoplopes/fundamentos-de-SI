@@ -1,9 +1,17 @@
 # Notas de aula da disciplina
 
+## Aula 4
+
+
+
+---
+
 ## Aula 3
   - Apresentação da Oficina de Git - https://github.com/alexandrezamberlan/oficinaGit
   - Apresentação, discussão e 1o trabalho avaliado
     - Cada aluno deve criar no seu repositório da disciplina um arquivo chamado 02-glossario.md. Nesse arquivo, terá um vocabulário de palavras e/ou expressões estudadas na disciplina.
+
+---
 
 ## Aula 2
   - Apresentação e discussão da ferramenta e ambiente GITHUB
@@ -12,6 +20,8 @@
     - objetivos:
       - controle de versão
       - armazenamento de backup de códigos fonte  
+
+---
 
 ## Aula 1
   - Apresentação do plano de aula
@@ -22,4 +32,4 @@
         - aspectos funcionais: comportamento ou as funcionalidades que um sistema oferece
         - arquiteturas de sistema
           - cliente-servidor
-          - ponto-a-ponto 
+          - ponto-a-ponto
