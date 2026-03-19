@@ -34,13 +34,16 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 
 
 ## Sistemas de Processamento de Transações (SPT)
+
   - São a base de tudo. Eles lidam com as operações rotineiras e repetitivas da empresa. Sem eles, o negócio para.
 
   - Objetivo: Registrar as transações diárias necessárias para conduzir o negócio.
 
   - Foco: Eficiência e velocidade no nível operacional.
 
-    - Exemplos: * Sistemas de PDV (Ponto de Venda) em supermercados.
+    - Exemplos:
+      
+    -  Sistemas de PDV (Ponto de Venda) em supermercados.
 
     - Processamento de folha de pagamento.
 
@@ -49,6 +52,7 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 ---
 
 ## Sistemas de Informação Gerencial (SIG)
+
   - O SIG pega os dados brutos acumulados pelos SPTs e os transforma em relatórios resumidos para os gerentes de nível médio.
 
   - Objetivo: Ajudar no monitoramento, controle e administração das atividades.
@@ -62,8 +66,11 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
     - Resumo de custos de produção comparados ao orçamento.
 
     - Relatórios de inventário e estoque.
+   
+    ---
 
 ## Sistemas de Apoio à Decisão (SAD)
+
   - Enquanto o SIG foca no que "já aconteceu", o SAD foca no "o que aconteceria se...?". Ele é usado para problemas que não têm uma solução óbvia ou rotineira.
 
   - Objetivo: Apoiar tomadas de decisão semiestruturadas e não estruturadas.
@@ -77,8 +84,11 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
     - Sistemas de precificação dinâmica (como os que mudam o preço de hotéis conforme a demanda).
 
     - Sistemas de planejamento de rotas logísticas complexas.
+   
+      ---
 
 ## Sistemas de Apoio ao Executivo (SAE)
+
   - No topo da pirâmide, os executivos precisam de uma visão macro da empresa e do mercado externo (concorrência, leis, economia).
 
   - Objetivo: Abordar decisões não estruturadas que exigem julgamento e avaliação.
@@ -90,8 +100,11 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
     - Painéis de controle com o valor das ações da empresa em tempo real.
 
     - Análise de tendências de mercado para lançar um novo produto global.
+   
+    ---
 
 ## Sistemas Integrados e Modernos (Tendências 2026)
+
   - Hoje em dia, a divisão entre esses sistemas é cada vez menor devido à integração total. Em 2026, destacam-se:
 
   - ERP (Enterprise Resource Planning): Integra todos os departamentos (RH, Finanças, Produção) em um único banco de dados. Exemplo: SAP, Oracle.
