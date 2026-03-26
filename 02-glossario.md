@@ -118,21 +118,21 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 ## Os sistemas abaixo são de que tipo de SI?
 
 1. gov.br
-  - Classificação: Sistema de Informação Governamental (e-Gov) e Portal de Integração.
+  - Sistema de Informação Governamental (e-Gov) e Portal de Integração.
 
   - Descrição: Funciona como uma plataforma de Identidade Digital. Sua principal função é integrar diversos serviços públicos em um único lugar, utilizando um sistema de autenticação única para facilitar a vida do cidadão e a gestão do Estado.
 
 2. Netflix
-  - Classificação: Sistema de Processamento de Transações (SPT) e Sistema de Apoio à Decisão (SAD).
+   - Sistema de Processamento de Transações (SPT) e Sistema de Apoio à Decisão (SAD).
 
   - Descrição: Como SPT, ele gerencia milhões de pagamentos e acessos simultâneos ao conteúdo. Como SAD, utiliza algoritmos de Inteligência Artificial para analisar o gosto dos usuários e decidir quais filmes e séries recomendar, otimizando a experiência do cliente.
 
 3. Minha Agenda UFN
-  - Classificação: Sistema de Informação Acadêmica (SIA).
+  -  Sistema de Informação Acadêmica (SIA).
 
   - Descrição: É um sistema de nível Operacional. Ele serve para organizar as atividades cotidianas da instituição de ensino, como controle de horários, lançamento de notas, faltas e comunicação direta entre a universidade e o aluno.
 
 4. Sistema de Imposto de Renda (Receita Federal)
-  - Classificação: Sistema Especialista e Sistema de Processamento de Transações (SPT).
+  -  Sistema Especialista e Sistema de Processamento de Transações (SPT).
 
   - Descrição: É considerado um Sistema Especialista porque aplica regras complexas da legislação tributária para calcular impostos. Também é um SPT de larga escala, pois processa milhões de declarações anualmente, realizando o cruzamento de dados para identificar inconsistências (fiscalização).
