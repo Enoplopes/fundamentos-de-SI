@@ -115,7 +115,7 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 
   - Sistemas de IA Agêntica: A grande tendência atual, onde agentes autônomos de IA não apenas sugerem, mas executam etapas complexas de processos sem intervenção humana.
 
-## Algumas curiosidades: os sistemas abaixo são de que tipo de SI?
+## Os sistemas abaixo são de que tipo de SI?
 
 1. gov.br
   - Classificação: Sistema de Informação Governamental (e-Gov) e Portal de Integração.
