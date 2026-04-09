@@ -136,3 +136,32 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   -  Sistema Especialista e Sistema de Processamento de Transações (SPT).
 
   - Descrição: É considerado um Sistema Especialista porque aplica regras complexas da legislação tributária para calcular impostos. Também é um SPT de larga escala, pois processa milhões de declarações anualmente, realizando o cruzamento de dados para identificar inconsistências (fiscalização).
+
+---
+
+## Computação em nuvem (Cloud Computing)
+
+- A computação em nuvem é o fornecimento de servuços de computação,como armazenamentos, servidores, redes e etc..., pela internet. ao invez de ter um surpercomputador na sua frente, você aluga o pode de processamento de grandes banco de dados (como a google, microsoft e amazon).
+
+    - O que faz: Ela permite que você acesse arquivos e use programas potentes de qualquer lugar do mundo, sem precisar de um hardware caro em mãos.
+ 
+- exemplos praticos:
+    - Netiflix: o filme não esta no seu celular/computador, esta na nuvem.
+    - e-mail: Suas mensagens ficam guardadas na rede, não apenas no seu celular/computador.
+    - google drive: seus arquivos ficam gurdados em servidores remotos.
+
+
+---
+
+## Internet das coisas (iot)
+
+- A Iot refere-se à rede de objetos fisicos que possuem tecnologias integradas com o objetivo de conectar e trocar dados com outros dispositivos e sistemas pela internet.
+
+
+    - O que faz: Ela transforma objetos comuns (como lâmpadas, geladeiras, relógios ou máquinas industriais) em dispositivos "inteligentes" que podem coletar informações do mundo real.
+ 
+- exemplos praticos:
+    - Um relogio que monitora seus batimentos cardiacos e avisa pela internet se tiver algo de errado.
+    - Uma geladeira que avisa quando algum alimento estiver acabando.
+    - Uma cidade com bueiros que avisam quando tiver com risco de trasbordar.
+ 
