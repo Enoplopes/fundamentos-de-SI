@@ -165,3 +165,31 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
     - Uma geladeira que avisa quando algum alimento estiver acabando.
     - Uma cidade com bueiros que avisam quando tiver com risco de trasbordar.
  
+---
+
+## sistema pervasivos
+
+- O foco aqui é a onipresença da tecnologia. A ideia é que os computadores e sensores estão espalhados por todos os lugares (em roupas, carros, eletrodomésticos), permitindo que a informação nos acompanhe.
+
+  - exemplo:
+      - Você usa um smartwatch para monitorar seus passos e recebe uma notificação no celular. A tecnologia está com você, mas você ainda tem plena consciência de que está operando um dispositivo.
+
+---
+
+## sistemas ubiqüos 
+
+- É um conceito mais amplo, criado por Mark Weiser. A ideia é que a computação seja tão natural que se torne invisível para o usuário. Ela não apenas está lá, mas ela entende o contexto.
+
+  - exemplo: Você entra em uma sala e as luzes se acendem, o ar-condicionado ajusta para sua temperatura preferida e o computador faz o login porque reconheceu sua presença. Você não "usou" um computador; o ambiente respondeu a você.
+
+---
+
+## principais diferenças
+
+  - Sistema pervasivos                         | | |           Sistema obiqüos
+  - A tecnologia é visível e portátil.         | | |           A tecnologia é invisível (integrada ao fundo)
+  - Geralmente requer comando do usuário.      | | |           O sistema age de forma proativa (antecipa o usuário).
+  - Estar disponível em qualquer lugar.        | | |           Integrar-se à vida humana sem ser notado.
+  - Mobilidade (o dispositivo vai com você).   | | |           Contexto (o ambiente entende você).
+ 
+ 
