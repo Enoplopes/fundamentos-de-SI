@@ -192,4 +192,52 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - Estar disponível em qualquer lugar.        | | |           Integrar-se à vida humana sem ser notado.
   - Mobilidade (o dispositivo vai com você).   | | |           Contexto (o ambiente entende você).
  
- 
+ ---
+
+## conceitos de técnica vs metodologia
+
+- A Técnica (O "Como")
+  - É o instrumento ou a habilidade manual. É a parte prática e específica.
+
+    - Exemplo: Saber usar o Excel, saber coletar sangue, saber martelar um prego.
+
+    - Resumo: É a ferramenta na mão.
+
+- A Metodologia (O "Caminho")
+  - É a estratégia ou o conjunto de passos. É o pensamento que organiza as técnicas para chegar a um objetivo maior.
+
+    - Exemplo: Um plano de gestão financeira (que usa o Excel), um protocolo hospitalar (que usa a coleta de sangue), um projeto de engenharia (que usa o martelo).
+
+    - Resumo: É o mapa da viagem.
+
+---
+
+## como integrar o trello com github
+
+- Passo 1: Ativar o Power-Up no Trello
+    - Abra o seu quadro no Trello.
+
+    - No menu superior direito, clique em Power-Ups (ou no ícone de foguete).
+
+    - Clique em Adicionar Power-Ups.
+
+    - Na barra de busca, digite GitHub.
+
+    - Clique em Adicionar no botão verde abaixo do logotipo do GitHub.
+
+- Passo 2: Autorizar sua conta
+    - Agora, abra qualquer cartão do seu quadro.
+
+    - Na lateral direita, você verá um novo botão chamado GitHub. Clique nele.
+
+    - Clique em Authorize Browser (Autorizar Navegador).
+
+    - Uma janela vai abrir pedindo para você logar no seu GitHub e dar permissão para o Trello acessar seus repositórios. Confirme tudo.
+
+- Passo 3: Conectar o Repositório ao Quadro
+    - Dentro de um cartão, clique novamente no botão GitHub.
+
+    - Escolha a opção Attach Repository (Anexar Repositório).
+
+    - Selecione o projeto do GitHub que você quer "linkar" a esse quadro do Trello.
+
