@@ -240,4 +240,45 @@ neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
     - Escolha a opção Attach Repository (Anexar Repositório).
 
     - Selecione o projeto do GitHub que você quer "linkar" a esse quadro do Trello.
+ 
+## CRM (Customer Relationship Management)
+
+- o que é:
+  - Na prática, ele se refere a um conjunto de estratégias, diretrizes e, mais comumente, tecnologias que as empresas utilizam para gerenciar e analisar as interações com seus clientes. O objetivo principal é melhorar o atendimento, fidelizar o público e, claro, impulsionar as vendas.
+
+- Os Três Pilares do CRM:
+  
+  - Para ser eficaz, um sistema de CRM geralmente cobre três frentes:
+
+    - Operacional: Foca na automação de vendas, marketing e atendimento ao cliente.
+
+    - Analítico: Analisa os dados coletados para identificar padrões, comportamentos e tendências de consumo.
+
+    - Colaborativo: Garante que todos os departamentos (vendas, suporte, financeiro) tenham acesso à mesma informação, evitando que o cliente tenha que repetir sua história toda vez que liga.
+   
+- Principais Benefícios:
+  
+  - Organização: Chega de planilhas perdidas ou post-its espalhados.
+
+  - Personalização: Você consegue tratar cada cliente de forma única, pois conhece o histórico dele.
+
+  - Aumento de Produtividade: Automatiza tarefas repetitivas (como enviar e-mails de acompanhamento).
+
+  - Previsibilidade: Ajuda os gestores a entenderem quanto a empresa vai faturar nos próximos meses com base nos negócios em aberto.
+ 
+- Os melhores CRMs:
+
+- Salesforce: Ecossistema líder global em nuvem, focado em alta complexidade e escalabilidade. Destaca-se pela capacidade de personalização total e integração profunda com Inteligência Artificial para grandes corporações.
+
+- HubSpot: Plataforma integrada de "Inbound" que unifica marketing, vendas e atendimento. É referência pela interface amigável e pelo modelo escalável, que permite começar com ferramentas gratuitas e evoluir para automações robustas.
+
+- Pipedrive: Ferramenta focada em gestão de pipeline (funil de vendas). Prioriza a experiência do vendedor através de uma interface visual simplificada, facilitando o acompanhamento de metas e atividades diárias.
+
+- RD Station CRM: Solução brasileira líder na América Latina. Focada no mercado de pequenas e médias empresas (PMEs), oferece suporte em português e faturamento em moeda local, com forte integração a ferramentas de marketing digital.
+
+- Zoho CRM: Software de alcance global conhecido pela flexibilidade e custo-benefício. Oferece um conjunto vasto de funcionalidades nativas que atendem desde profissionais liberais até empresas em rápida expansão.
+
+- Bitrix24: Plataforma de colaboração completa que combina CRM com ferramentas de gestão de projetos, rede social corporativa e comunicação interna, sendo uma opção "tudo-em-um" para gestão empresarial.
+
+
 
